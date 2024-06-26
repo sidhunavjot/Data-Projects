@@ -1,0 +1,20 @@
+Find the Count OF orders 
+Find the Distinct count of Orders 
+Find the Max Sales 
+FInd The Avg Sales 
+Find The Min Sales
+find Total Number Of Customer
+find the total Dictinct number Of Customer
+
+
+find the California Total Sales 
+find the Avg Sales for East region
+Find the Phones Total Sales
+Find the Min Sales for Consumer Segment
+
+find the 2015 october sales
+find the count of orders placed in 2015
+
+calender generation.
+if condition > Sales Flag = IF(Orders[Sales]>10000,"Good Sales","Bad Sales")
+
