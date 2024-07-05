@@ -1,0 +1,19 @@
+world economic 
+
+1. top 5 countries rich before 2000 and after 2000
+2. top poor contries before and after 2000
+
+3. birth rate, death rate, electric power consumption rate, gdp, infant mortality rate, life expectancy, unemployment >> year wise of countries + class wise
+4. number of people income group wise in each country, year wise
+
+5. yearwise shift of income groups in each country and world
+
+6. region wise >> birth rate, death rate, electric power consumption rate, gdp, infant mortality rate, life expectancy, unemployment
+
+7. country which has performed best and worst employment wise, life expectancy wise, gdp wise, death rate wise
+
+8. relation between, >> employment wise, life expectancy wise, gdp wise, death rate wise
+
+9. how has death and birth rates changed with years, country wise/regin wise
+10. how gdp, employment changed yearwise > country and region wise
+
